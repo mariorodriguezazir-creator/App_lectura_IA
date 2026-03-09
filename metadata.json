@@ -1,0 +1,7 @@
+{
+  "name": "LectoKids",
+  "description": "App para enseñar a niños de 4 a 7 años a leer en español mediante juegos y cuentos generados por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
